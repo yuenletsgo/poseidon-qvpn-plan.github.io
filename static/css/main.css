@@ -84,12 +84,12 @@ header {
       justify-content: center;
   position: relative;
   margin-bottom: 3rem;
-	@media (max-width: 1112px) {
+}
+@media (max-width: 640px) {
 	header {
 		margin-bottom: 1rem;
 		}
 	}
-}
 
 
 .logo {
