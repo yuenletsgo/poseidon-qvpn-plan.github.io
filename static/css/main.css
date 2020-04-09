@@ -87,7 +87,8 @@ header {
 }
 @media (max-width: 640px) {
 	header {
-		margin-bottom: 1rem;
+margin-bottom: -1rem;
+    height: auto;
 		}
 	}
 
