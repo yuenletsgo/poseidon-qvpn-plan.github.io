@@ -83,7 +83,11 @@ header {
   -ms-flex-pack: center;
       justify-content: center;
   position: relative;
-  margin-bottom: 3rem; }
+  margin-bottom: 3rem;
+	@media (max-width: 1112px) {
+		  margin-bottom: 1rem;
+	}
+}
 
 .logo {
   width: 300px;
@@ -94,7 +98,8 @@ header {
   opacity: .3;
   position: absolute;
   z-index: -1;
-  transform: translate(-30%, 30%); }
+  transform: translate(-30%, 30%);
+}
 
 .price-table {
   padding-top: 10px; }
@@ -226,6 +231,7 @@ ul {
     @media (max-width: 640px) {
       ul li {
         width: 46%;
+	min-width:auto;
         padding: 2.2rem 1rem 2.2rem; }
         ul li .btn {
           display: none; } }
