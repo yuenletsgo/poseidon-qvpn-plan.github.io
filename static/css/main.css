@@ -85,9 +85,12 @@ header {
   position: relative;
   margin-bottom: 3rem;
 	@media (max-width: 1112px) {
-		  margin-bottom: 1rem;
+	header {
+		margin-bottom: 1rem;
+		}
 	}
 }
+
 
 .logo {
   width: 300px;
@@ -106,6 +109,7 @@ header {
   .price-table .intro {
     margin-top: 1rem;
     margin-bottom: 0;
+	padding: 0 20px;
     text-align: center; }
 
 ul {
