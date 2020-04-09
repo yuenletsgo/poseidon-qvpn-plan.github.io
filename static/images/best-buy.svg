@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="30px" viewBox="0 0 132 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>best-buy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-14.000000, -14.000000)">
+            <g id="best-buy" transform="translate(14.000000, 14.000000)">
+                <g id="Group" fill-rule="nonzero">
+                    <circle id="Oval" stroke="#FFF5D6" stroke-width="2" fill="#FFD650" cx="15" cy="15" r="14"></circle>
+                    <g id="Logo" transform="translate(6.758242, 5.109890)" fill="#FFF5D6">
+                        <polygon id="Fill-1" points="8.23878297 -2.47252747e-05 6.42312363 7.31791484 6.40779396 18.4323379 8.23433242 19.7801951 10.0456236 18.4222005 10.030294 7.31791484"></polygon>
+                        <polygon id="Fill-2" points="13.166728 7.36274176 13.166728 16.1279341 15.8017005 14.1939231 15.8017005 6.41625824 16.4604643 4.91831868"></polygon>
+                        <polygon id="Fill-3" points="0.658755495 6.41625824 0.658755495 14.1939231 3.29381044 16.1279341 3.29381044 7.36274176 -8.24175824e-06 4.91831868"></polygon>
+                    </g>
+                </g>
+                <text id="BEST-BUY!" font-family="Montserrat-Bold, Montserrat" font-size="16" font-weight="bold" letter-spacing="0.800000012" fill="#FFD650">
+                    <tspan x="38.016" y="21">BEST BUY</tspan>
+                    <tspan x="127.36" y="21">!</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
