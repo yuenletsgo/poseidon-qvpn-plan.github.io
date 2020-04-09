@@ -81,5 +81,10 @@ $(window).resize(function() {
 			$('#pop-bg').addClass('hide');
 		})
 	}
+if ($(window).width() < 768) {
+		$('.submit').val('→');
+	} else {
+		$('.submit').val('Subscribe')
+	}
 });
 AOS.init();
